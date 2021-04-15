@@ -2,8 +2,8 @@
 
 Hello, it is my genetic algorithm for creation the image from the source image.
 \
-To get the result, please, do the following steps:
 \
+To get the result, please, do the following steps:
 1) Open the program in pycharm or other place for running the python program
 2) Add to the directory with program the source the image with name "image.jpg"
 3) The program will ask you to input the number of iterations in console. I reccomend you for testing write the 1000. Around 1 minutes algorithm will be executing.
