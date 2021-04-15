@@ -10,7 +10,6 @@ To get the result, please, do the following steps:
 5. Next, you should close the window.
 6. If you want to continue, then write the number of extra iterations again.
 7. If no, write -1, and the resulting picture will save as "result.jpg". (Attention, there are no "result.jpg" files in the directory until then)
-\
 
 
 If there are some troubles, please, write me in telegram (@noneword).
