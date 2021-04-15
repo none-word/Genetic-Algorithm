@@ -12,4 +12,5 @@ To get the result, please, do the following steps:
 6) If you want to continue, then wite the number of extra iteration again.
 7) If no, write -1, and the result picture will save as "result.jpg". (Attention, there are no "result.jpg" files in the directory untull then)
 \
+\
 If there is some troubles, please, write me in telegram (@noneword).
